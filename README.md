@@ -6,3 +6,5 @@ Written for a simple usecase. I wanted to send WebSocket messages from MixItUp t
 
 Usage:
 SendWebSocket.exe ws://localhost:8000/vnyan Message Parameter
+
+# [Download](https://github.com/LumKitty/SendWebSocket/releases)
